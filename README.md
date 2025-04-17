@@ -22,7 +22,10 @@ Este proyecto es una aplicación diseñada para calcular el impuesto de una comp
      ```bash
      python src\view\gui\taxes_gui.py
      ```
-
+ interfaz grafica creada por:
+ Alejandra Escobar
+ Simon Muñoz
+ 
 # ¿Cómo está hecho?
 
 Arquitectura del Proyecto
