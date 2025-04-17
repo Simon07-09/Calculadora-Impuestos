@@ -23,7 +23,7 @@ Este proyecto es una aplicación diseñada para calcular el impuesto de una comp
      python src\view\gui\taxes_gui.py
      ```
  interfaz grafica creada por:
- Alejandra Escobar
+ Alejandra Escobar,
  Simon Muñoz
  
 # ¿Cómo está hecho?
